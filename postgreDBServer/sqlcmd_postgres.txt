@@ -1,0 +1,100 @@
+#접속
+> psql -U postgres(스키마명)
+암호 : root
+postgres=# 선택된 스카마로 프롬포트가 뜨는거 확인
+
+# 현재 존재하는 데이터베이스 목록을 보여준다.
+postgres=# \l
+ 
+# 특정 데이타베이스를 사용하겠다고 선언한다.
+postgres=# \c dbname;
+
+#사용자 목록 표시
+postgres=# \du;
+ 
+# DB, table 삭제한다.
+postgres=# \drop database dbname;
+postgres=# \drop table tablename;
+
+# 테이블에 있는 모든 데이터 삭제(테이블은 유지)
+postgres=# \delete from tablename;
+
+#파일로 명령어 수행
+postgres=# \i filename;
+
+#table 리스트를 보여준다
+postgres=# \dt
+
+#table 정보 보기
+postgres=# \d tablename;
+
+#컬럼 추가
+postgres=# ALTER TABLE tablename ADD columnname type;
+
+#컬럼 삭제
+postgres=# ALTER TABLE tablename DROP columnname;
+
+#컬럼 default값 추가
+postgres=# ALTER TABLE tablename ALTER COLUMN id SET DEFAULT value;
+
+#컬럼 default값 제거
+postgres=# ALTER TABLE tablename ALTER COLUMN id DROP DEFAULT;
+
+#컬럼 NOT NULL 추가
+postgres=# ALTER TABLE tablename ALTER COLUMN id SET NOT NULL;
+
+#컬럼 default값 제거
+postgres=# ALTER TABLE tablename ALTER COLUMN id DROP NOT NULL;
+
+#컬럼명 변경
+postgres=# ALTER TABLE tablename RENAME COLUMN username TO userid;
+
+#컬럼타입 변경
+postgres=# ALTER TABLE tablename RENAME COLUMN username TYPE text;
+
+#데이터 변경
+postgres=# UPDATE tablename SET type='image' WHERE name='sjlee';
+
+#데이터 추가
+postgres=# INSERT INTO tablename VALUES('name', 'type', 0, now(), now());
+
+
+
+
+
+create table users (userid varchar primary key, password varchar, devicename varchar, score integer, latestTime timestamp, firstTime timestamp);
+create table musics (id integer primary key, title varchar, artist varchar, userid varchar, filename varchar, createtime timestamp, updatetime timestamp);
+create table logging (userid varchar, action integer, logtime timestamp);
+create sequence seqMusicID;
+create sequence seqUserID;
+
+insert into users values('user#1', 'pw1', 'dev1', 30, now(), now());
+insert into users values('user#2', 'pw2', 'dev2', 45, now(), now());
+insert into users values('user#3', 'pw3', 'dev3', 55, now(), now());
+
+insert into logging values('user#1', 1, now());
+insert into logging values('user#1', 2, now());
+insert into logging values('user#2', 1, now());
+insert into logging values('user#3', 2, now());
+
+insert into musics values(nextval('seqMusicID'), 'goaway', '2ne1', 'lee', 'goaway', now(), now());
+insert into musics(id, title, artist, userid, filename, createtime, updatetime) 
+values(nextval('seqMusicID'), 'goaway', '2ne1', 'lee', 'goaway', now(), now());
+
+<초기화>
+delete from users;
+delete from musics;
+delete from logging;
+drop sequence seqMusicID;
+create sequence seqMusicID;
+drop sequence seqUserID;
+create sequence seqUserID;
+
+
+
+
+
+
+
+
+

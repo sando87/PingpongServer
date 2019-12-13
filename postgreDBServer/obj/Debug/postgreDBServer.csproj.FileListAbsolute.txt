@@ -1,0 +1,45 @@
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\postgreDBServer.exe.config
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\postgreDBServer.exe
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\postgreDBServer.pdb
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\Npgsql.dll
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\System.Buffers.dll
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\System.Memory.dll
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\System.ValueTuple.dll
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\Npgsql.pdb
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\Npgsql.xml
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\System.Buffers.xml
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\System.Memory.xml
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\bin\Debug\System.ValueTuple.xml
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\obj\Debug\postgreDBServer.csprojResolveAssemblyReference.cache
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\obj\Debug\postgreDBServer.Properties.Resources.resources
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\obj\Debug\postgreDBServer.csproj.GenerateResource.Cache
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\obj\Debug\postgreDBServer.exe
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\obj\Debug\postgreDBServer.pdb
+C:\Users\ccc\documents\visual studio 2015\Projects\postgreDBServer\postgreDBServer\obj\Debug\postgreDBServer.Form1.resources
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\postgreDBServer.exe.config
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\postgreDBServer.exe
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\postgreDBServer.pdb
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\Npgsql.dll
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\System.Buffers.dll
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\System.Memory.dll
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\System.ValueTuple.dll
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\Npgsql.pdb
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\Npgsql.xml
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\System.Buffers.xml
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\System.Memory.xml
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\bin\Debug\System.ValueTuple.xml
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\obj\Debug\postgreDBServer.csprojResolveAssemblyReference.cache
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\obj\Debug\postgreDBServer.Properties.Resources.resources
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\obj\Debug\postgreDBServer.csproj.GenerateResource.Cache
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\obj\Debug\postgreDBServer.csproj.CoreCompileInputs.cache
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\obj\Debug\postgreDBServer.exe
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\obj\Debug\postgreDBServer.pdb
+C:\Users\lee\Downloads\postgreDBServer\postgreDBServer\obj\Debug\postgreDBServer.PathDefines.resources
